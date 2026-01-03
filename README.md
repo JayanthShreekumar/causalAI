@@ -21,3 +21,8 @@ Use this repository to:
 - Build or extend materials on causal inference, causal ML, and counterfactual modeling in your own teaching or research practice.
 
 All materials in this repository are open and reusable for educational and research purposes.
+
+
+## Updates
+
+- Use this repository to play with the book code and adapt it for our needs.
